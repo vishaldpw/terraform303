@@ -1,0 +1,1 @@
+terraform file which will launch an ec2, with a VPC and Subnet
